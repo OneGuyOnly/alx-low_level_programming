@@ -4,8 +4,8 @@
 
 /**
  *main - Entry Point
- *Description: Function to check if number is positive, negative or zero
- *Return Value: zero
+ *Description: 'Function to check if number is positive, negative or zero'
+ *Return: always 0
  */
 int main(void)
 {
