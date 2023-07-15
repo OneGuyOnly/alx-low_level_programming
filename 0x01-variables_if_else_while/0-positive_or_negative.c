@@ -4,7 +4,7 @@
 /* more headers goes there */
 
 /*
- * main : Entry Point
+ * main - Entry Point
  * Description: Function to check if number is positive, negative or zero
  * Return Value: zero
  */
@@ -18,11 +18,11 @@ int main(void)
 	{
 	  printf("%d is negative\n", n);
 	}
-		else if (n > 0)
+	else if (n > 0)
 	{
 	  printf("%d is positive\n", n);
 	}
-		else
+	else
 	{
 	  printf("%d is zero\n", n);
 	}
