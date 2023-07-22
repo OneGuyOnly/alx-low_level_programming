@@ -7,7 +7,7 @@
  */
 int _idigit(int n)
 {
-	if (x >= 48 && x <= 57)
+	if (n >= 48 && n <= 57)
 	{
 		return (1);
 	}
